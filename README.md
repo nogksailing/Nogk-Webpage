@@ -1,2 +1,0 @@
-# Nogk
-### The Official Webpage
